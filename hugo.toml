@@ -1,7 +1,8 @@
-baseURL = "https://melakashield.com/"
+baseURL = "/"
 languageCode = "en-us"
 title = "MelakaShield"
 theme = "coming-soon"
+relativeURLs = true
 
 [params]
 
