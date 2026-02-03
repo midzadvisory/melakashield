@@ -1,0 +1,27 @@
+baseURL = "https://melakashield.com/"
+languageCode = "en-us"
+title = "MelakaShield"
+theme = "coming-soon"
+
+[params]
+
+  title = "MelakaShield"
+
+  message = "Safety & Risk Advisory for a Resilient Melaka"
+
+  description = "Helping organisations strengthen safety, preparedness and resilience."
+
+  # Countdown date (YYYY-MM-DD)
+  release = "2026-03-01"
+
+  # Optional background video
+  # background = "bg.mp4"
+
+  # Social icons
+  [[params.socialIcons]]
+    name = "email"
+    url = "mohd.izwan.zakaria@gmail.com"
+
+  [[params.socialIcons]]
+    name = "linkedin"
+    url = "https://linkedin.com/in/midz-advisory"
