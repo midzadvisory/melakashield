@@ -21,7 +21,7 @@ relativeURLs = true
   # Social icons
   [[params.socialIcons]]
     name = "email"
-    url = "mohd.izwan.zakaria@gmail.com"
+    url = "izwan@midzadvisory.com"
 
   [[params.socialIcons]]
     name = "linkedin"
